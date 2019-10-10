@@ -1,0 +1,2 @@
+# Al-Msie-Deen
+Ra'Fat Al-Msie'Deen is an Assistant Professor at Mutah University since 2014. He received his PhD in Software Engineering from the University of Montpellier 2, Montpellier – France, in 2014. He received his MSc in Information Technology from the University Utara Malaysia, Kedah – Malaysia, in 2009. He got his BSc in Computer Science from Al-Hussein Bin Talal University, Ma’an – Jordan, in 2007. His research interests include software engineering, software product line engineering, and formal concept analysis.
